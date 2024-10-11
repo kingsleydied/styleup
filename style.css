@@ -1,0 +1,57 @@
+body
+{
+background-color:rgb(214, 230, 154);
+}
+
+.title-class
+{
+    text-align: center; 
+color:rgb(66, 135, 245);
+font-family: cursive;
+    }
+
+.nav-class
+{
+    text-align: center; 
+font-family:cursive;
+    }
+
+.nav-link-class-1
+{
+font-weight: bold;
+    }
+
+.section-title-class
+{
+    font-family: cursive;
+    text-align: center; 
+    color:rgb(66, 135, 245);
+    }
+
+.text-class
+{
+    color:rgb(21, 43, 77);
+    font-family: Tahoma;
+}
+
+.image-class
+{
+    border: 10px solid #105;
+}
+
+.form-class
+{
+    color:rgb(21, 43, 77);
+    font-family: Tahoma;
+    font-weight: bold;
+    }
+
+.button-class
+{
+    color:rgb(105, 28, 42);   
+}
+
+.footer-class
+{
+    color:rgb(105, 28, 42);   
+}
